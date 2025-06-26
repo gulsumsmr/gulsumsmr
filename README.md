@@ -11,3 +11,10 @@
   Web geliştirme👩‍💻 | Bilgisayar Mühendisi 🎓 | Mobil Projeler 💡
 </p>
 
+## 📫 İletişim
+
+- 📧 E-posta: **glsmsumer44@gmail.com**
+- 🔗 LinkedIn: [linkedin.com/in/gulsumsumer](https://www.linkedin.com/in/gulsumsumer/)
+- 📄 CV: [PDF olarak indir](https://raw.githubusercontent.com/gulsumsumer/gulsumsumer/main/gulsumsumercv.pdf) <!-- Bu bağlantıyı CV dosyanı GitHub’a yükleyip doğru URL’yle değiştirmelisin -->
+
+
