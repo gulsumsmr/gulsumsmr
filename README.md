@@ -13,6 +13,8 @@
 ## 📫 İletişim
 
 [![Gmail Rozeti](https://img.shields.io/badge/glsmsumer44%40gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:glsmsumer44@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gulsumsumer/)
+
 
 
 
