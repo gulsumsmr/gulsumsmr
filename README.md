@@ -48,6 +48,10 @@
   &nbsp;
   <img src="Kotlin.png" alt="Kotlin" height="30">
 </p>
+## 📈 GitHub İstatistikleri
+
+![Gülsüm'ün GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=gulsumsumer&show_icons=true&theme=radical)
+![En Çok Kullandığım Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=gulsumsumer&layout=compact&theme=radical)
 
 
 
