@@ -54,26 +54,9 @@
 ![Gülsüm'ün GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=gulsumsmr&show_icons=true&theme=radical)
 ![En Çok Kullandığım Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=gulsumsmr&layout=compact&theme=radical)
 
-```javascript
-// 👩‍💻 Gülsüm Sümer'in Tanıtımı
-const gulsumSumer = {
-  name: "Gülsüm Sümer",
-  location: "İstanbul",
-  education: "İnönü Üniversitesi - Bilgisayar Mühendisliği",
-  skills: ["HTML", "CSS", "JavaScript", "Kotlin"],
-  email: "glsmsumer44@gmail.com",
-  linkedin: "https://www.linkedin.com/in/gulsumsumer/",
-  introduce() {
-    console.log(`👋 Merhaba! Ben ${this.name}.\n` +
-                `📍 ${this.location}'da yaşıyorum.\n` +
-                `🎓 ${this.education} mezunuyum.\n` +
-                `💻 Uzmanlık alanlarım: ${this.skills.join(", ")}.\n` +
-                `📫 Bana ulaşmak için: ${this.email}\n` +
-                `🔗 LinkedIn: ${this.linkedin}`);
-  }
-};
-
-gulsumSumer.introduce();
+<p align="center">
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=F78A1D&center=true&vCenter=true&width=700&lines=Merhaba,+ben+G%C3%BCls%C3%BCm+S%C3%BCmer.;%C4%B0n%C3%B6n%C3%BC+%C3%9Cniversitesi+Bilgisayar+M%C3%BChendisli%C4%9Fi+mezunuyum+ve+%C4%B0stanbul%E2%80%99da+ya%C5%9F%C4%B1yorum.;Yaz%C4%B1l%C4%B1m+geli%C5%9Ftirme+alan%C4%B1nda+edindi%C4%9Fim+bilgi+ve+tecr%C3%BCbelerle,+%C3%A7%C3%B6z%C3%BCm+odakl%C4%B1+ve+disiplinli+%C3%A7al%C4%B1%C5%9Fmay%C4%B1+temel+prensip+olarak+benimsiyorum.;Geli%C5%9Fime+ve+%C3%B6%C4%9Frenmeye+a%C3%A7%C4%B1k+bir+profesyonel+olarak,+teknolojiye+olan+ilgimi+prati%C4%9Fe+d%C3%B6n%C3%BC%C5%9Ft%C3%BCrmek+ve+etkili+projelerde+yer+almak+i%C3%A7in+%C3%A7al%C4%B1%C5%9F%C4%B1yorum.;Amac%C4%B1m,+her+zaman+en+iyiyi+%C3%BCretmek+ve+sekt%C3%B6re+de%C4%9Fer+katmakt%C4%B1r." alt="Typing SVG" />
+</p>
 
 
 
