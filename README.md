@@ -19,7 +19,7 @@
 ## Programlama Dilleri
 <img src="HTML5.png" width="70" alt="HTML5 Logo" />&nbsp;&nbsp;
 <img src="CSS3.png" width="50" alt="CSS3 Logo" />
-<img src="JavaScript.png" width="120" alt="JavaScript Logo" />
-<img src="Kotlin.png" width="120" alt="Kotlin Logo" />
+<img src="JavaScript.png" width="110" alt="JavaScript Logo" />
+<img src="Kotlin.png" width="110" alt="Kotlin Logo" />
 
 
