@@ -17,7 +17,14 @@
 - 📄 CV: <a href="https://raw.githubusercontent.com/gulsumsumer/gulsumsmr/main/gulsumsumercv.pdf" style="color: orange;"> PDF olarak indir </a>
 
 ## Programlama Dilleri
-<img src="ggg.png" width="100" alt="HTML5 Logo" />&nbsp;&nbsp;
+## Kullandığım Diller ve Teknolojiler
+
+<span style="color: #E34F26; font-weight: bold;">HTML5</span> &nbsp;&nbsp;
+<span style="color: #1572B6; font-weight: bold;">CSS3</span> &nbsp;&nbsp;
+<span style="color: #F7DF1E; font-weight: bold;">JavaScript</span> &nbsp;&nbsp;
+<span style="color: #0095D5; font-weight: bold;">Kotlin</span> &nbsp;&nbsp;
+<span style="font-weight: bold;">MVC</span>
+
 
 
 
