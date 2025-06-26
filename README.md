@@ -40,11 +40,15 @@
 
 ## Programlama Dilleri
 <p>
-  <img src="HTML5.pngstyle=for-the-badge&logo=html5&logoColor=white" height="28">
-  <img src="CSS3.png style=for-the-badge&logo=css3&logoColor=white" height="28">
-  <img src="JavaScript.png style=for-the-badge&logo=javascript&logoColor=black" height="28">
-  <img src="Kotlin.pngstyle=for-the-badge&logo=kotlin&logoColor=white" height="28">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.png" alt="HTML" height="40">
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.png" alt="CSS" height="40">
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.png" alt="JavaScript" height="40">
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.png" alt="Kotlin" height="40">
 </p>
+
 
 
 
