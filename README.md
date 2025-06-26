@@ -17,9 +17,9 @@
 - 📄 CV: <a href="https://raw.githubusercontent.com/gulsumsumer/gulsumsmr/main/gulsumsumercv.pdf" style="color: orange;"> PDF olarak indir </a>
 
 ## Programlama Dilleri
-<img src="HTML5.png" width="80" alt="HTML5 Logo" />&nbsp;&nbsp;
+<img src="HTML5.png" width="75" alt="HTML5 Logo" />&nbsp;&nbsp;
 <img src="CSS3.png" width="50" alt="CSS3 Logo" />
 <img src="JavaScript.png" width="90" alt="JavaScript Logo" />
-<img src="Kotlin.png" width="90" alt="Kotlin Logo" />
+<img src="Kotlin.png" width="100" alt="Kotlin Logo" />
 
 
