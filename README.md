@@ -12,7 +12,7 @@
 
 ## 📫 İletişim
 
-![E-posta](https://img.shields.io/badge/glsmsumer44%40gmail%2Ecom-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+<img src="https://camo.githubusercontent.com/a190ef074f4ca61fb6f82a34f8bb6bad9c2ba27ae63df09d47e4ed727f8a3943/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6b6572656d6d657274697a6d6972333940676d61696c2e636f6d2d6331343433383f7374796c653d666c61742d737175617265266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465266c696e6b3d6d61696c746f3a6b6572656d6d657274697a6d6972333940676d61696c2e636f6d" alt="Gmail Rozeti" data-canonical-src="https://img.shields.io/badge/glsmsumer44@gmail.com-c14438?style=flat-square&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:glsmsumer44@gmail.com" style="max-width: 100%;">
 
 
 ## Programlama Dilleri
