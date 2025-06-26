@@ -12,7 +12,8 @@
 
 ## 📫 İletişim
 
-![Gmail Rozeti](https://img.shields.io/badge/glsmsumer44%40gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:glsmsumer44@gmail.com)
+[![Gmail Rozeti](https://img.shields.io/badge/glsmsumer44%40gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:glsmsumer44@gmail.com)
+
 
 
 
