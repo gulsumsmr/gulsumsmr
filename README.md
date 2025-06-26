@@ -8,6 +8,6 @@
 
 <!-- Kısa tanıtım cümlesi -->
 <p align="center">
-  Web geliştirme👩‍💻 | Bilgisayar Mühendisi 🎓 | Yapay Zeka & Mobil Projeler 💡
+  Web geliştirme👩‍💻 | Bilgisayar Mühendisi 🎓 | Mobil Projeler 💡
 </p>
 
