@@ -42,11 +42,11 @@
 <p>
   <img src="HTML5.png" alt="HTML" height="30">
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.png" alt="CSS" height="30">
+  <img src="CSS3.png" alt="CSS" height="30">
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.png" alt="JavaScript" height="30">
+  <img src="JavaScript.png" alt="JavaScript" height="30">
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.png" alt="Kotlin" height="30">
+  <img src="Kotlin.png" alt="Kotlin" height="30">
 </p>
 
 
