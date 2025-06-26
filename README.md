@@ -14,6 +14,6 @@
 
 - 📧 E-posta: glsmsumer44@gmail.com 
 - 🔗 LinkedIn: <a href="https://www.linkedin.com/in/gulsumsumer/" style="color: orange;">linkedin.com/in/gulsumsumer</a>
-- 📄 CV: <a href="https://raw.githubusercontent.com/gulsumsumer/gulsumsumer/main/gulsumsumercv.pdf" style="color: orange;"> PDF olarak indir </a>
+- 📄 CV: <a href="https://raw.githubusercontent.com/gulsumsumer/gulsumsmr/main/gulsumsumercv.pdf" style="color: orange;"> PDF olarak indir </a>
 
 
