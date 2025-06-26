@@ -11,8 +11,30 @@
 </p>
 
 ## 📫 İletişim
-[![Gmail](https://img.shields.io/badge/glsmsumer44%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:glsmsumer44@gmail.com) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gulsumsumer/)
+<a href="mailto:glsmsumer44@gmail.com">
+  <img
+    src="https://img.shields.io/badge/glsmsumer44%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="E-posta"
+    height="28"
+  />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/gulsumsumer/" target="_blank" rel="noopener noreferrer">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+    height="28"
+  />
+</a>
+&nbsp;&nbsp;
+<a href="gulsumsumercv.pdf" download>
+  <img
+    src="https://img.shields.io/badge/%C3%96zge%C3%A7mi%C5%9F-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"
+    alt="Özgeçmiş"
+    height="28"
+  />
+</a>
+
 
 
 
