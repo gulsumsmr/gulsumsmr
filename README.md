@@ -12,7 +12,7 @@
 
 ## 📫 İletişim
 
-<img src="{https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white}" <p>glsmsumer44@gmail.com</p>/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 
 ## Programlama Dilleri
 ## Kullandığım Diller ve Teknolojiler
