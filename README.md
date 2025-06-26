@@ -39,6 +39,13 @@
 </a>
 
 ## Programlama Dilleri
+<p>
+  <img src="HTML5.png style=for-the-badge&logo=html5&logoColor=white" height="28">
+  <img src="CSS3.png style=for-the-badge&logo=css3&logoColor=white" height="28">
+  <img src="JavaScript.png style=for-the-badge&logo=javascript&logoColor=black" height="28">
+  <img src="Kotlin.pngstyle=for-the-badge&logo=kotlin&logoColor=white" height="28">
+</p>
+
 
 
 
