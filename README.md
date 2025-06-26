@@ -54,8 +54,27 @@
 ![Gülsüm'ün GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=gulsumsmr&show_icons=true&theme=radical)
 ![En Çok Kullandığım Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=gulsumsmr&layout=compact&theme=radical)
 
+```javascript
+// 👩‍💻 Gülsüm Sümer'in Tanıtımı
+const gulsumSumer = {
+  name: "Gülsüm Sümer",
+  location: "İstanbul",
+  education: "İnönü Üniversitesi - Bilgisayar Mühendisliği",
+  skills: ["HTML", "CSS", "JavaScript", "Kotlin"],
+  email: "glsmsumer44@gmail.com",
+  linkedin: "https://www.linkedin.com/in/gulsumsumer/",
+  introduce() {
+    console.log(`👋 Merhaba! Ben ${this.name}.\n` +
+                `📍 ${this.location}'da yaşıyorum.\n` +
+                `🎓 ${this.education} mezunuyum.\n` +
+                `💻 Uzmanlık alanlarım: ${this.skills.join(", ")}.\n` +
+                `📫 Bana ulaşmak için: ${this.email}\n` +
+                `🔗 LinkedIn: ${this.linkedin}`);
+  }
+};
 
-![Kodlama Animasyonu](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+gulsumSumer.introduce();
+
 
 
 
