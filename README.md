@@ -55,6 +55,7 @@
 ![En Çok Kullandığım Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=gulsumsmr&layout=compact&theme=radical)
 
 
+![Kodlama Animasyonu](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
 
 
 
