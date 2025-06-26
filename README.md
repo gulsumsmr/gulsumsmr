@@ -17,7 +17,7 @@
 - 📄 CV: <a href="https://raw.githubusercontent.com/gulsumsumer/gulsumsmr/main/gulsumsumercv.pdf" style="color: orange;"> PDF olarak indir </a>
 
 ## Programlama Dilleri
-<img src="ggg.png" width="80" alt="HTML5 Logo" />&nbsp;&nbsp;
+<img src="ggg.png" width="100" alt="HTML5 Logo" />&nbsp;&nbsp;
 
 
 
