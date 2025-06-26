@@ -15,6 +15,7 @@
   <img
     src="https://img.shields.io/badge/glsmsumer44%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"
     alt="E-posta"
+    style="vertical-align: middle;"
     height="28"
   />
 </a>
@@ -23,6 +24,7 @@
   <img
     src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
     alt="LinkedIn"
+    style="vertical-align: middle;"
     height="28"
   />
 </a>
@@ -31,6 +33,7 @@
   <img
     src="https://img.shields.io/badge/%C3%96zge%C3%A7mi%C5%9F-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"
     alt="Özgeçmiş"
+    style="vertical-align: middle;"
     height="28"
   />
 </a>
