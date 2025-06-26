@@ -13,8 +13,8 @@
 
 ## 📫 İletişim
 
-- 📧 E-posta: **glsmsumer44@gmail.com**
-- 🔗 LinkedIn: [linkedin.com/in/gulsumsumer](https://www.linkedin.com/in/gulsumsumer/)
-- 📄 CV: [PDF olarak indir](https://raw.githubusercontent.com/gulsumsumer/gulsumsumer/main/gulsumsumercv.pdf) <!-- Bu bağlantıyı CV dosyanı GitHub’a yükleyip doğru URL’yle değiştirmelisin -->
+- 📧 E-posta: glsmsumer44@gmail.com 
+- 🔗 LinkedIn: <a href="https://www.linkedin.com/in/gulsumsumer/" style="color: orange;">linkedin.com/in/gulsumsumer</a>
+- 📄 CV: <a href="https://raw.githubusercontent.com/gulsumsumer/gulsumsumer/main/gulsumsumercv.pdf" style="color: orange;"> PDF olarak indir </a>
 
 
