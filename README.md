@@ -12,9 +12,7 @@
 
 ## 📫 İletişim
 
-- 📧 E-posta: glsmsumer44@gmail.com 
-- 🔗 LinkedIn: <a href="https://www.linkedin.com/in/gulsumsumer/" style="color: orange;">linkedin.com/in/gulsumsumer</a>
-- 📄 CV: <a href="https://raw.githubusercontent.com/gulsumsumer/gulsumsmr/main/gulsumsumercv.pdf" style="color: orange;"> PDF olarak indir </a>
+<img src="{https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white}" <p>glsmsumer44@gmail.com</p>/>
 
 ## Programlama Dilleri
 ## Kullandığım Diller ve Teknolojiler
