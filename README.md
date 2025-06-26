@@ -44,7 +44,7 @@
   &nbsp;
   <img src="CSS3.png" alt="CSS" height="30">
   &nbsp;
-  <img src="JavaScript.png" alt="JavaScript" height="30">
+  <img src="js.png" alt="JavaScript" height="30">
   &nbsp;
   <img src="Kotlin.png" alt="Kotlin" height="30">
 </p>
