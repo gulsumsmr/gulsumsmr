@@ -2,7 +2,7 @@
   
 # 👋 Merhaba, Ben Gülsüm Sümer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F78A1D&center=true&vCenter=true&width=600&lines=React+ve+Material+UI+Geliştiricisi;Kullanıcı+Odaklı+Web+Arayüzleri;Frontend+%2B+Backend+Deneyimi" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color="black"&center=true&vCenter=true&width=600&lines=React+ve+Material+UI+Geliştiricisi;Kullanıcı+Odaklı+Web+Arayüzleri;Frontend+%2B+Backend+Deneyimi" alt="Typing SVG" />
 
 </div>
 
