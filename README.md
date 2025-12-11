@@ -81,19 +81,14 @@ AFAD'ın (Afet ve Acil Durum Yönetimi Başkanlığı) **tarihsel verileriyle e�
 ---
 
 <div align="center">
-
-### 💻 "Kod yazmak sanattır, her satır bir fırça darbesidir."
-
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 
 ---
 
 ## 📫 İletişim
 
-[![Email](https://img.shields.io/badge/Email-glsmsumer44%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:glsmsumer44@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gülsüm_Sümer-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gulsumsumer/)
-[![CV](https://img.shields.io/badge/Özgeçmiş-CV_İndir-FF6B6B?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://github.com/gulsumsmr/gulsumsmr/blob/main/GulsumSumerCv.pdf)
-
-![Profile Views](https://komarev.com/ghpvc/?username=gulsumsmr&color=blueviolet&style=for-the-badge)
+[!(https://img.shields.io/badge/Email-glsmsumer44%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:glsmsumer44@gmail.com)
+[![(https://img.shields.io/badge/LinkedIn-Gülsüm_Sümer-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gulsumsumer/)
+[!(https://img.shields.io/badge/Özgeçmiş-CV_İndir-FF6B6B?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://github.com/gulsumsmr/gulsumsmr/blob/main/GulsumSumerCv.pdf)
 
 </div>
