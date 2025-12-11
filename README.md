@@ -74,7 +74,7 @@ Durum: Detaylar için GitHub Proje Sayfası
     />
   </a>
   &nbsp;&nbsp;
-  <a href="[CV_DOSYASI_LINKI_BURAYA_GELMELI]" target="_blank" rel="noopener noreferrer">
+  <a href="[GulsumSumerCv.pdf]" target="_blank" rel="noopener noreferrer">
     <img
       src="https://img.shields.io/badge/%C3%96zge%C3%A7mi%C5%9F-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"
       alt="Özgeçmiş"
